@@ -24,5 +24,5 @@
 - Material UI
 - Redux Toolkit
 - Auth0
-- Supabase
+- PostgreSQL
 - Vercel
