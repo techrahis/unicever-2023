@@ -34,6 +34,5 @@ Join us on this journey to redefine certificate authentication in the digital er
 - TypeScript
 - Material UI
 - Redux Toolkit
-- Auth0
 - PostgreSQL
 - Vercel
